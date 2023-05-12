@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLC DE App", "SLC DE App\SLC DE App.csproj", "{0BE35C38-140D-459E-AC43-5EBBBB64C84C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SLC DE-WMT", "SLC DE-WMT\SLC DE-WMT.vdproj", "{7F57252C-6041-48BD-9AAC-89BD7EDCDE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE35C38-140D-459E-AC43-5EBBBB64C84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE35C38-140D-459E-AC43-5EBBBB64C84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE35C38-140D-459E-AC43-5EBBBB64C84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE35C38-140D-459E-AC43-5EBBBB64C84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F57252C-6041-48BD-9AAC-89BD7EDCDE47}.Debug|Any CPU.ActiveCfg = Debug
+		{7F57252C-6041-48BD-9AAC-89BD7EDCDE47}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
